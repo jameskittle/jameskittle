@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jameskittle
 - 👀 I’m interested in open source network management, Betamax and Snoopy.
-- 🌱 I’m currently learning paitence.
-- 💞️ I’m looking to collaborate on engineering for extroverts
+- 🌱 I’m currently learning patience.
+- 💞️ I’m looking to collaborate on peace, love and understanding.
 - 📫 How to reach me?
 
 <!---
