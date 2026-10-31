@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jameskittle
-- 👀 I’m interested in open source network management and Snoopy.
+- 👀 I’m interested.
 - 🌱 I’m currently learning patience.
 - 💞️ I’m looking to collaborate on peace, love and understanding.
 - 📫 How to reach me?
